@@ -257,7 +257,7 @@ Please have a look at
 
 
 <p align="center">
-  <a href="https://github.com/cybergauravv/DevSecOps-Spotify/issues">Report Bug</a> •
+  <a href="https://github.com/cybergauravv/reverse-engineering/issues">Report Bug</a> •
   <a href="https://github.com/cybergauravv/cybergauravv.git">View My Profile</a>
 </p>
 
