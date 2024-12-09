@@ -249,3 +249,22 @@ Please have a look at
 * [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
 
 
+---
+
+<h2 align="center"> Thank You for Exploring Our Reverse-Engineering Project! </h2>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/cybergauravv/DevSecOps-Spotify/issues">Report Bug</a> •
+  <a href="https://github.com/cybergauravv/cybergauravv.git">View My Profile</a>
+</p>
+
+<p align="center">
+  <sub>Don't forget to leave a ⭐️ if you found this useful!</sub>
+</p>
+
+ <p align="center">
+  <sub>Credits to the original author: <a href="https://github.com/wtsxDev" target="_blank">wtsxDev</sub>
+  </p>
